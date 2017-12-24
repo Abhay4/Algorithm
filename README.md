@@ -3,4 +3,4 @@ Algorithm
 
 Algorithm code for ACM/ICPC, TopCoder, etc.
 
-Modified by Abhay
+Modified by Abhay Kumar
